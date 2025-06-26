@@ -61,4 +61,4 @@ LIA/
 - User online status
 
 ## License
-This project is for educational/demo purposes. 
+MIT License
